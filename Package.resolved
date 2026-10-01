@@ -1,6 +1,15 @@
 {
   "pins" : [
     {
+      "identity" : "csqlite",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/stephencelis/CSQLite.git",
+      "state" : {
+        "revision" : "9106e983d5e3d5149ee35281ec089484b0def018",
+        "version" : "0.0.3"
+      }
+    },
+    {
       "identity" : "inflectorkit",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/mattt/InflectorKit",
@@ -32,8 +41,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/apple/swift-collections",
       "state" : {
-        "revision" : "937e904258d22af6e447a0b72c0bc67583ef64a2",
-        "version" : "1.0.4"
+        "revision" : "98ef3c98609a1e31b7e157b5b619579001a789d6",
+        "version" : "1.7.1"
       }
     }
   ],
